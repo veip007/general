@@ -15,4 +15,4 @@ Update History
 https://github.com/tcp-nanqinlang/general/releases
 
 中文文档  
-https://github.com/tcp-nanqinlang/wiki/wiki/general
+https://github.com/veip007/wiki/blob/master/general.md
