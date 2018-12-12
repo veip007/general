@@ -11,7 +11,7 @@ echo -e "${Green_font}
 # Version:  3.4.2.1
 # Author:   nanqinlang
 # Blog:     https://sometimesnaive.org
-# Github:   https://github.com/nanqinlang
+# Github:   https://github.com/nanqinlang 
 #================================================
 ${Font_suffix}"
 
