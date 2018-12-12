@@ -210,3 +210,4 @@ elif [[ "${function}" == "3" ]]; then
 else
 	uninstall
 fi
+
